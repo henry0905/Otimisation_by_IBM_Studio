@@ -7,3 +7,10 @@ This project use the CPLEX solver of [IBM ILOG Optimization Studio](https://www.
 Two modes of use are available: via an API, allowing CPLEX to be interfaced using a programming language (such as JAVA, C++ or Python), and an interactive command line mode. During the session of this project, we will try to use both modes of use.
 
 We use the OLP language, a high-level modeling language. This language has a declarative syntax close to the mathematical formulation of models. Ilog offers an Eclipse-based IDE for the OPL language.
+
+## Mode IDE
+* IDE and OPL/Starting Kit/From Operations Research to CPLEX Studio and Decision Optimization Center/A quick start to CPLEX Studio.
+* IDE and OPL/Getting Started with the IDE
+* IDE and OPL/Optimization Programming Language (OPL)
+* IDE and OPL/Language and Interfaces Examples
+* IDE and OPL/Language and Interfaces Examples/OPL model library
